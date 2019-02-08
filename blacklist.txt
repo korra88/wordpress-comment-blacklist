@@ -31255,8 +31255,6 @@ weekly.in
 weeklyincome
 weeklyprofit
 weelhtiar
-weight gain
-weight loss
 weight natur
 weight work
 weight-101
