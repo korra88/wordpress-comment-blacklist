@@ -26358,8 +26358,6 @@ servicos-prestado
 serwis
 session-thumb
 sessions-thumb
-sessuale
-sessuali
 set/bv
 set/celine
 set/chanel
