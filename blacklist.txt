@@ -7261,7 +7261,6 @@ biz.su
 biz.za
 bizadvert
 bizmarket
-biznes
 biznews
 bizstore
 biztalk
