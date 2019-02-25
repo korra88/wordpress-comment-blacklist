@@ -7625,7 +7625,6 @@ boot get
 boot online
 boot oxford
 boot queen
-boot sale
 boot schwei
 boot store online
 boot stores online
@@ -7662,7 +7661,6 @@ boots-sale
 boots-schwei
 boots-ugg
 boots-uk
-bootsale
 bootschwei
 bootsget
 bootsinschwei
