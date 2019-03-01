@@ -18046,9 +18046,7 @@ kombat-hack
 kombathack
 kommissionen tager
 kommissionen-tager
-kompanii
 komputer
-konkurs
 konsalting
 konsultan
 kontakta-oss
@@ -19537,7 +19535,6 @@ market exchange
 market online
 market prices
 market pricing
-market research
 market samurai
 market xchange
 market your video
@@ -29456,7 +29453,6 @@ trendy-bag
 trendy-purse
 trendybag
 trendypurse
-trening
 tres high-tech
 très high-tech
 tres-high-tech
@@ -30265,7 +30261,6 @@ veja mais
 veja-mais
 vendida separadamente
 vendida-separadamente
-vendita
 vendorlock
 veneta bors
 veneta out
