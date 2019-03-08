@@ -1404,8 +1404,6 @@ _zapat
 :usuario
 ！
 ! ,
-! !
-! .
 ! this blog
 ! this post
 ! this site
@@ -1417,7 +1415,6 @@ _zapat
 !!\
 !?'
 !?’
-!..
 ![]
 !}
 !@#
